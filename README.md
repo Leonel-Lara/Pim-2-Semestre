@@ -1,5 +1,6 @@
 # pim-2semestre
 Trabalho (PIM) referente ao 2 semestre, em C#.
+
 O sistema de controle de entrada deverá permitir o cadastro de cada
 participante e emitir (mostrar na tela) um ticket com a data, a hora e o número
 do assento. Nenhum participante poderá ter um assento com o mesmo número
