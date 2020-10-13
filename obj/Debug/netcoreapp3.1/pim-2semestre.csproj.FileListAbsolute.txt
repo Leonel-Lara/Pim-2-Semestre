@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.exe
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.deps.json
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.runtimeconfig.json
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.dll
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.pdb
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.AssemblyInfo.cs
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.dll
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.pdb
+C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.genruntimeconfig.cache
