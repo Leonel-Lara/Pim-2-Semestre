@@ -11,3 +11,16 @@ C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\
 C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.dll
 C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.pdb
 C:\Users\Dell\Desktop\FACULDADE_2SEMESTRE\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.genruntimeconfig.cache
+C:\pim\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.exe
+C:\pim\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.deps.json
+C:\pim\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.runtimeconfig.json
+C:\pim\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.runtimeconfig.dev.json
+C:\pim\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.dll
+C:\pim\pim-2semestre\bin\Debug\netcoreapp3.1\pim-2semestre.pdb
+C:\pim\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.csprojAssemblyReference.cache
+C:\pim\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.AssemblyInfoInputs.cache
+C:\pim\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.AssemblyInfo.cs
+C:\pim\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.csproj.CoreCompileInputs.cache
+C:\pim\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.dll
+C:\pim\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.pdb
+C:\pim\pim-2semestre\obj\Debug\netcoreapp3.1\pim-2semestre.genruntimeconfig.cache
