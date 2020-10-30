@@ -183,7 +183,7 @@ namespace pim_2semestre
                         }
                         else if (contA > 90 && contA < 101)
                         {
-                            Console.WriteLine("Aluno(a): " + name + "\r\nFileira: 10 " + "\r\nAssento:" + (contA) + "\r\nRegistrado em: " + date;
+                            Console.WriteLine("Aluno(a): " + name + "\r\nFileira: 10 " + "\r\nAssento:" + (contA) + "\r\nRegistrado em: " + date);
 
                             Console.ReadKey();
                             Console.Clear();
